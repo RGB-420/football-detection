@@ -12,6 +12,7 @@ The goal of this project is to process a video of a football match and use a YOL
 - Ball
 
 The model is trained to handle video frames and can detect these objects in real-time, allowing for the analysis of player movements, game events, and overall match dynamics.
+
 ![image](https://github.com/user-attachments/assets/6e39077f-847a-4a1e-98e8-3c257353c91e)
 
 
