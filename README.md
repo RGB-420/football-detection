@@ -1,4 +1,4 @@
-# Football Match Object Detection (Players, Referees, Goalkeepers, and Ball)
+# Football Match Object Detection
 
 This project aims to detect football players, referees, goalkeepers, and the ball in a football match using a YOLO (You Only Look Once) trained model. The video is captured from a tactical camera, which is often used for providing an overhead or strategic view of the game.
 
