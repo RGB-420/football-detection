@@ -25,4 +25,4 @@ The model is trained to handle video frames and can detect these objects in real
 
 ## Trained Models
 You can download the trained YOLO model from the following link:
-[Download YOLO model][(https://drive.google.com/file/d/1qQcZTSNsyGpIiJMtDTvuJPaI0kbMZjg3/view?usp=drive_link)]
+[!Download YOLO model](https://drive.google.com/file/d/1qQcZTSNsyGpIiJMtDTvuJPaI0kbMZjg3/view?usp=drive_link)
