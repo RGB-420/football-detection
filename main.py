@@ -3,7 +3,7 @@ from tracker import Tracker
 
 def main():
     # Read video
-    video_frames = read_video('Videos\Prueba_Corta.mp4')
+    video_frames = read_video('path/to/video.mp4')
 
     # Initialize Tracker
     tracker = Tracker('train/models/Best.pt')
